@@ -4,7 +4,7 @@ with open("../Tool/README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="Tool", # the name that you will install via pip
+    name="Goding_Lambda", # the name that you will install via pip
     version="1.0",
     author="Goding Wal",
     author_email="gwal325@gmail.com",
